@@ -1,5 +1,5 @@
 import { view } from "./view";
-import icons from 'url:../../img/icons.svg'// Parcel v2
+import icons from 'url:../../img/icons.svg'
 
 class ResultView extends view {
     _parentElement = document.querySelector('.results');

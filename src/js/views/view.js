@@ -1,4 +1,4 @@
-import icons from 'url:../../img/icons.svg' // Parcel v2
+import icons from 'url:../../img/icons.svg'
 class view {
         _data;
     render(data) {

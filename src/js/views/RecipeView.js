@@ -1,5 +1,5 @@
 import Fraction from "fraction.js";
-import icons from 'url:../../img/icons.svg' // Parcel v2
+import icons from 'url:../../img/icons.svg'
 import { view } from "./view";
 console.log("valor de icons:", + icons);
 class RecipeView extends view {
