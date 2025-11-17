@@ -1,0 +1,19 @@
+{
+  "name": "proyectopruebas",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Carlos Rivas",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.1",
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "fraction.js": "^5.3.4"
+  }
+}
